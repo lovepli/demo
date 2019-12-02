@@ -1,4 +1,4 @@
-package com.example.demo.demo.java_cache.example2;
+package com.example.demo.demo.java_local_cache.example2;
 
 /**
  * @author: lipan
